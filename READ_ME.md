@@ -1,0 +1,1 @@
+Simple html page of recipes linked to other recipe html pages
